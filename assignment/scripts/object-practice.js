@@ -11,7 +11,9 @@ console.log('***** Object Practice *****')
 const me = {
   firstName: "Adam",
   lastName: "Garberg",
-
+  hasSiblings: true,
+  shoeCount: 15,
+  favThreeFoods: ['Pizza', 'Pasta', 'Panini'],
 };
 console.log('A little about me:', me);
 
